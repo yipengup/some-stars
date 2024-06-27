@@ -16,7 +16,7 @@
 
 ## Dockerfile
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 62834
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 62872
 
 > 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
@@ -44,7 +44,7 @@
 
 ## JavaScript
 
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 68560
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 68571
 
 > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
@@ -54,16 +54,16 @@
 
 > 年薪百万互联网架构师课程文档及源码(公开部分)
 
-*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) 🌟 14568
+*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) 🌟 14570
 
 > 收集免费的接口服务,做一个api的搬运工
 
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 297398
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 297426
 
 > A complete computer science study plan to become a software engineer.
 
 ## HTML
 
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 67893
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 67899
 
 > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
