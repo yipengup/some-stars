@@ -8,9 +8,19 @@
 
 ## Table of Contents
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 62831
+*   [Dockerfile](#dockerfile)
+*   [Java](#java)
+*   [JavaScript](#javascript)
+*   [miscellaneous](#miscellaneous)
+*   [HTML](#html)
+
+## Dockerfile
+
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 62832
 
 > 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+
+## Java
 
 *   [feiniaojin/graceful-response](https://github.com/feiniaojin/graceful-response) 🌟 767
 
@@ -32,9 +42,13 @@
 
 > 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 
+## JavaScript
+
 *   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 68560
 
 > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+
+## miscellaneous
 
 *   [xiaoacheng1203/InternetArchitect](https://github.com/xiaoacheng1203/InternetArchitect) 🌟 2
 
@@ -47,6 +61,8 @@
 *   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 297397
 
 > A complete computer science study plan to become a software engineer.
+
+## HTML
 
 *   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 67892
 
