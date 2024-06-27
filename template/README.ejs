@@ -1,17 +1,33 @@
 <div align="center">
 
-# Some Stars
+# awesome-stars
 
-⭐ <a href="https://github.com/yipengup/some-stars"  target="_blank">RunningForwardYp.</a> 的star列表，每日自动更新 ⭐
+💖💖💖 我的star列表，每天凌晨自动更新 💖💖💖
 
+< img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
 </div><br>
 
 ## Table of Contents
 
-<% for(let [language, repositories] of stars) { %>
-## <%= language %>
-  <% for(let repo of repositories) { %>
-- [<%= repo.full_name %>](<%= repo.html_url %>) 🌟 <%= repo.stargazers_count %>
-> <%= repo.description %>
-  <% } %>
+<% 
+// 将所有仓库放入一个数组
+let repos = [];
+for(let [language, repositories] of stars) {
+  repos = repos.concat(repositories);
+}
+
+// 按 starred_at 排序，最新的在前
+repos.sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at));
+var index = 0;
+// 显示排序后的仓库
+for(let repo of repos) {
+  ++index;
+  // 截取描述的前128个字符
+  let description = repo.description ? repo.description.substring(0, 128) : '';
+  if (repo.description && repo.description.length > 128) {
+    description += '...';
+  }
+%>
+<%=index%>. [<%= repo.full_name %>](<%= repo.html_url %>) 🌟 <%= repo.stargazers_count %> ⏰ <%= repo.updated_at.split("T")[0] %>
+> <%= description %>
 <% } %>
