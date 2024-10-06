@@ -24,17 +24,17 @@
 
 > 年薪百万互联网架构师课程文档及源码(公开部分)
 
-*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) 🌟 14878
+*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) 🌟 14879
 
 > 收集免费的接口服务,做一个api的搬运工
 
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 305185
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 305222
 
 > A complete computer science study plan to become a software engineer.
 
 ## Dockerfile
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 66645
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 66651
 
 > 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
@@ -48,11 +48,11 @@
 
 > Real - time non-invasive AOP framework container based on JVM
 
-*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) 🌟 3056
+*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) 🌟 3060
 
 > 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
 
-*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 75790
+*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 75793
 
 > 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 
@@ -62,12 +62,12 @@
 
 ## TypeScript
 
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 71175
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 71191
 
 > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## HTML
 
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 69308
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 69329
 
 > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
