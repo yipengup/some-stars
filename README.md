@@ -24,17 +24,17 @@
 
 > 年薪百万互联网架构师课程文档及源码(公开部分)
 
-*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) 🌟 14928
+*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) 🌟 14929
 
 > 收集免费的接口服务,做一个api的搬运工
 
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 306334
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 306361
 
 > A complete computer science study plan to become a software engineer.
 
 ## Dockerfile
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 67126
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 67134
 
 > 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
@@ -48,26 +48,26 @@
 
 > Real - time non-invasive AOP framework container based on JVM
 
-*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) 🌟 3090
+*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) 🌟 3093
 
 > 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
 
-*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 75984
+*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 75988
 
 > 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 
-*   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) 🌟 9588
+*   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) 🌟 9591
 
 > 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 
 ## TypeScript
 
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 71908
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 71923
 
 > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## HTML
 
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 69638
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 69650
 
 > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
