@@ -28,27 +28,27 @@
 
 > 收集免费的接口服务,做一个api的搬运工
 
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 313896
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 313919
 
 > A complete computer science study plan to become a software engineer.
 
 ## Dockerfile
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 70072
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 70092
 
 > 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 ## Java
 
-*   [feiniaojin/graceful-response](https://github.com/feiniaojin/graceful-response) 🌟 1132
+*   [feiniaojin/graceful-response](https://github.com/feiniaojin/graceful-response) 🌟 1134
 
 > Spring Boot接口响应处理解决方案，提供统一返回值封装、全局异常处理、自定义异常错误码、参数校验增强、断言增强等功能
 
-*   [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) 🌟 6865
+*   [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) 🌟 6866
 
 > Real - time non-invasive AOP framework container based on JVM
 
-*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) 🌟 3327
+*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) 🌟 3329
 
 > 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
 
@@ -62,12 +62,12 @@
 
 ## TypeScript
 
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 77558
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 77607
 
 > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## HTML
 
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 71654
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 71668
 
 > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
