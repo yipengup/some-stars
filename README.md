@@ -17,11 +17,11 @@
 
 ## Python
 
-*   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) 🌟 19836
+*   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) 🌟 20287
 
 > \[Support 0.48.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 
-*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 9925
+*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 10069
 
 > The official Python SDK for Model Context Protocol servers and clients
 
@@ -35,17 +35,17 @@
 
 > 年薪百万互联网架构师课程文档及源码(公开部分)
 
-*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) 🌟 15296
+*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) 🌟 15297
 
 > 收集免费的接口服务,做一个api的搬运工
 
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 314860
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 315111
 
 > A complete computer science study plan to become a software engineer.
 
 ## Dockerfile
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 78347
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 79201
 
 > 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
@@ -63,22 +63,22 @@
 
 > 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
 
-*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 77472
+*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 77474
 
 > 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 
-*   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) 🌟 9920
+*   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) 🌟 9922
 
 > 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 
 ## TypeScript
 
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 78360
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 78399
 
 > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## HTML
 
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 71926
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 71937
 
 > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
