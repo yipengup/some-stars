@@ -19,25 +19,25 @@
 
 ## TypeScript
 
-*   [microsoft/poml](https://github.com/microsoft/poml) 🌟 4526
+*   [microsoft/poml](https://github.com/microsoft/poml) 🌟 4534
 
 > Prompt Orchestration Markup Language
 
-*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 🌟 15234
+*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 🌟 15297
 
 > 一款提示词优化器，助力于编写高质量的提示词
 
-*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🌟 75999
+*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🌟 76108
 
 > An open-source AI agent that brings the power of Gemini directly into your terminal.
 
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 83042
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 83061
 
 > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## Go
 
-*   [fish2018/pansou](https://github.com/fish2018/pansou) 🌟 6645
+*   [fish2018/pansou](https://github.com/fish2018/pansou) 🌟 6686
 
 > PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/
 
@@ -49,11 +49,11 @@
 
 ## Java
 
-*   [alibaba/jetcache](https://github.com/alibaba/jetcache) 🌟 5478
+*   [alibaba/jetcache](https://github.com/alibaba/jetcache) 🌟 5479
 
 > JetCache is a Java cache framework.
 
-*   [guoshiqiufeng/dify-spring-boot-starter](https://github.com/guoshiqiufeng/dify-spring-boot-starter) 🌟 74
+*   [guoshiqiufeng/dify-spring-boot-starter](https://github.com/guoshiqiufeng/dify-spring-boot-starter) 🌟 75
 
 > Provide springboot starter for dify to simplify development.
 
@@ -61,7 +61,7 @@
 
 > Spring Boot接口响应处理解决方案，提供统一返回值封装、全局异常处理、自定义异常错误码、参数校验增强、断言增强等功能
 
-*   [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) 🌟 6925
+*   [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) 🌟 6926
 
 > Real - time non-invasive AOP framework container based on JVM
 
@@ -69,35 +69,35 @@
 
 > 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
 
-*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 78267
+*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 78275
 
 > 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 
-*   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) 🌟 10943
+*   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) 🌟 10946
 
 > 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 
 ## Python
 
-*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 🌟 44335
+*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 🌟 44400
 
 > A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
 
-*   [bytedance/Dolphin](https://github.com/bytedance/Dolphin) 🌟 5813
+*   [bytedance/Dolphin](https://github.com/bytedance/Dolphin) 🌟 5816
 
 > The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 
-*   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) 🌟 35613
+*   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) 🌟 35660
 
 > \[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 
-*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 18649
+*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 18672
 
 > The official Python SDK for Model Context Protocol servers and clients
 
 ## miscellaneous
 
-*   [Relph1119/mysql-learning-notes](https://github.com/Relph1119/mysql-learning-notes) 🌟 508
+*   [Relph1119/mysql-learning-notes](https://github.com/Relph1119/mysql-learning-notes) 🌟 509
 
 > MySQL学习《MySQL 是怎样运行的：从根儿上理解 MySQL》，在线阅读：https://relph1119.github.io/mysql-learning-notes/
 
@@ -105,22 +105,22 @@
 
 > 年薪百万互联网架构师课程文档及源码(公开部分)
 
-*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) 🌟 15662
+*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) 🌟 15664
 
 > 收集免费的接口服务,做一个api的搬运工
 
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 329141
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 329260
 
 > A complete computer science study plan to become a software engineer.
 
 ## Dockerfile
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 93721
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 93852
 
 > 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 ## Jupyter Notebook
 
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 77536
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 77565
 
 > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
