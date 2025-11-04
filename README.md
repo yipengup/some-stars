@@ -19,7 +19,7 @@
 
 ## miscellaneous
 
-*   [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) 🌟 3961
+*   [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) 🌟 3963
 
 > Chinese software copyright application template document
 
@@ -31,35 +31,35 @@
 
 > 年薪百万互联网架构师课程文档及源码(公开部分)
 
-*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) 🌟 15729
+*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) 🌟 15732
 
 > 收集免费的接口服务,做一个api的搬运工
 
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 332157
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 332219
 
 > A complete computer science study plan to become a software engineer.
 
 ## TypeScript
 
-*   [microsoft/poml](https://github.com/microsoft/poml) 🌟 4710
+*   [microsoft/poml](https://github.com/microsoft/poml) 🌟 4713
 
 > Prompt Orchestration Markup Language
 
-*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 🌟 16535
+*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 🌟 16564
 
 > 一款提示词优化器，助力于编写高质量的提示词
 
-*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🌟 81333
+*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🌟 81451
 
 > An open-source AI agent that brings the power of Gemini directly into your terminal.
 
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 83873
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 83892
 
 > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## Go
 
-*   [fish2018/pansou](https://github.com/fish2018/pansou) 🌟 8517
+*   [fish2018/pansou](https://github.com/fish2018/pansou) 🌟 8559
 
 > PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/
 
@@ -75,11 +75,11 @@
 
 > JetCache is a Java cache framework.
 
-*   [guoshiqiufeng/dify-spring-boot-starter](https://github.com/guoshiqiufeng/dify-spring-boot-starter) 🌟 86
+*   [guoshiqiufeng/dify-spring-boot-starter](https://github.com/guoshiqiufeng/dify-spring-boot-starter) 🌟 87
 
 > Provide springboot starter for dify to simplify development.
 
-*   [feiniaojin/graceful-response](https://github.com/feiniaojin/graceful-response) 🌟 1229
+*   [feiniaojin/graceful-response](https://github.com/feiniaojin/graceful-response) 🌟 1230
 
 > Spring Boot接口响应处理解决方案，提供统一返回值封装、全局异常处理、自定义异常错误码、参数校验增强、断言增强等功能
 
@@ -87,11 +87,11 @@
 
 > Real - time non-invasive AOP framework container based on JVM
 
-*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) 🌟 3675
+*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) 🌟 3676
 
 > 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
 
-*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 78444
+*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 78448
 
 > 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 
@@ -101,30 +101,30 @@
 
 ## Python
 
-*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 🌟 48012
+*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 🌟 48077
 
 > Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
 
-*   [bytedance/Dolphin](https://github.com/bytedance/Dolphin) 🌟 7694
+*   [bytedance/Dolphin](https://github.com/bytedance/Dolphin) 🌟 7700
 
 > The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 
-*   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) 🌟 39975
+*   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) 🌟 40084
 
 > \[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 
-*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 19804
+*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 19830
 
 > The official Python SDK for Model Context Protocol servers and clients
 
 ## Dockerfile
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 95566
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 95571
 
 > 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 ## Jupyter Notebook
 
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 78520
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 78535
 
 > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
