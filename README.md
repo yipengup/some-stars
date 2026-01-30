@@ -19,29 +19,29 @@
 
 ## Python
 
-*   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🌟 27804
+*   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🌟 28251
 
 > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
-*   [github/spec-kit](https://github.com/github/spec-kit) 🌟 66152
+*   [github/spec-kit](https://github.com/github/spec-kit) 🌟 66382
 
 > 💫 Toolkit to help you get started with Spec-Driven Development
 
-*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 🌟 53221
+*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 🌟 53339
 
 > Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
 
-*   [bytedance/Dolphin](https://github.com/bytedance/Dolphin) 🌟 8749
+*   [bytedance/Dolphin](https://github.com/bytedance/Dolphin) 🌟 8758
 
 > The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 
-*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 21413
+*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 21438
 
 > The official Python SDK for Model Context Protocol servers and clients
 
 ## miscellaneous
 
-*   [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) 🌟 4114
+*   [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) 🌟 4116
 
 > Chinese software copyright application template document
 
@@ -57,31 +57,31 @@
 
 > 收集免费的接口服务,做一个api的搬运工
 
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 336384
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 336420
 
 > A complete computer science study plan to become a software engineer.
 
 ## TypeScript
 
-*   [microsoft/poml](https://github.com/microsoft/poml) 🌟 4841
+*   [microsoft/poml](https://github.com/microsoft/poml) 🌟 4842
 
 > Prompt Orchestration Markup Language
 
-*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 🌟 18958
+*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 🌟 18981
 
 > 一款提示词优化器，助力于编写高质量的提示词
 
-*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🌟 92951
+*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🌟 93056
 
 > An open-source AI agent that brings the power of Gemini directly into your terminal.
 
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 85666
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 85691
 
 > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## Go
 
-*   [fish2018/pansou](https://github.com/fish2018/pansou) 🌟 11522
+*   [fish2018/pansou](https://github.com/fish2018/pansou) 🌟 11538
 
 > PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/
 
@@ -97,7 +97,7 @@
 
 > JetCache is a Java cache framework.
 
-*   [guoshiqiufeng/dify-spring-boot-starter](https://github.com/guoshiqiufeng/dify-spring-boot-starter) 🌟 98
+*   [guoshiqiufeng/dify-spring-boot-starter](https://github.com/guoshiqiufeng/dify-spring-boot-starter) 🌟 99
 
 > Provide springboot starter for dify to simplify development.
 
@@ -113,22 +113,22 @@
 
 > 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
 
-*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 78795
+*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 78799
 
 > 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 
-*   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) 🌟 11174
+*   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) 🌟 11175
 
 > 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 
 ## Dockerfile
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 97514
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 97549
 
 > 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 ## Jupyter Notebook
 
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 83399
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 83421
 
 > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
