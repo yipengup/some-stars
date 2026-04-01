@@ -19,15 +19,15 @@
 
 ## Python
 
-*   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🌟 49799
+*   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🌟 50174
 
 > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
-*   [github/spec-kit](https://github.com/github/spec-kit) 🌟 84071
+*   [github/spec-kit](https://github.com/github/spec-kit) 🌟 84380
 
 > 💫 Toolkit to help you get started with Spec-Driven Development
 
-*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 🌟 57713
+*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 🌟 57810
 
 > Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
 
@@ -35,13 +35,13 @@
 
 > The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 
-*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 22432
+*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 22451
 
 > The official Python SDK for Model Context Protocol servers and clients
 
 ## miscellaneous
 
-*   [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) 🌟 4204
+*   [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) 🌟 4206
 
 > Chinese software copyright application template document
 
@@ -57,7 +57,7 @@
 
 > 收集免费的接口服务,做一个api的搬运工
 
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 339393
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 340011
 
 > A complete computer science study plan to become a software engineer.
 
@@ -67,33 +67,33 @@
 
 > Prompt Orchestration Markup Language
 
-*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 🌟 25786
+*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 🌟 25842
 
 > 一款提示词优化器，助力于编写高质量的提示词
 
-*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🌟 99692
+*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🌟 99867
 
 > An open-source AI agent that brings the power of Gemini directly into your terminal.
 
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 87014
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 87044
 
 > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## Go
 
-*   [fish2018/pansou](https://github.com/fish2018/pansou) 🌟 12446
+*   [fish2018/pansou](https://github.com/fish2018/pansou) 🌟 12462
 
 > PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/
 
 ## JavaScript
 
-*   [jiangnan1224/AddressGenerator](https://github.com/jiangnan1224/AddressGenerator) 🌟 106
+*   [jiangnan1224/AddressGenerator](https://github.com/jiangnan1224/AddressGenerator) 🌟 105
 
 > 地址生成器
 
 ## Java
 
-*   [alibaba/jetcache](https://github.com/alibaba/jetcache) 🌟 5573
+*   [alibaba/jetcache](https://github.com/alibaba/jetcache) 🌟 5571
 
 > JetCache is a Java cache framework.
 
@@ -101,34 +101,34 @@
 
 > Provide springboot starter for dify to simplify development.
 
-*   [feiniaojin/graceful-response](https://github.com/feiniaojin/graceful-response) 🌟 1247
+*   [feiniaojin/graceful-response](https://github.com/feiniaojin/graceful-response) 🌟 1246
 
 > Spring Boot接口响应处理解决方案，提供统一返回值封装、全局异常处理、自定义异常错误码、参数校验增强、断言增强等功能
 
-*   [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) 🌟 6958
+*   [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) 🌟 6957
 
 > Real - time non-invasive AOP framework container based on JVM
 
-*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) 🌟 3851
+*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) 🌟 3854
 
 >
 
-*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 78917
+*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 78915
 
 > 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 
-*   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) 🌟 11318
+*   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) 🌟 11317
 
 > 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 
 ## Dockerfile
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 99084
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 99095
 
 > 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 ## Jupyter Notebook
 
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 84879
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 84902
 
 > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
