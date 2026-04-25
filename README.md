@@ -19,7 +19,7 @@
 
 ## JavaScript
 
-*   [Logan66666/Infinitoai](https://github.com/Logan66666/Infinitoai) 🌟 823
+*   [Logan66666/Infinitoai](https://github.com/Logan66666/Infinitoai) 🌟 825
 
 > 专为tmailor调教，古法永动机版本！（支持duck/33mail/tmailor）
 
@@ -29,7 +29,7 @@
 
 ## TypeScript
 
-*   [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) 🌟 1932
+*   [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) 🌟 1962
 
 > CC GUI 客户端（专为开发者打造的VibeCoding平台）
 
@@ -37,37 +37,37 @@
 
 > Prompt Orchestration Markup Language
 
-*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 🌟 26823
+*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 🌟 26892
 
 > An AI prompt optimizer for writing better prompts and getting better AI results.
 
-*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🌟 102318
+*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🌟 102382
 
 > An open-source AI agent that brings the power of Gemini directly into your terminal.
 
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 87615
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 87632
 
 > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## Python
 
-*   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🌟 56047
+*   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🌟 56211
 
 > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
-*   [github/spec-kit](https://github.com/github/spec-kit) 🌟 90680
+*   [github/spec-kit](https://github.com/github/spec-kit) 🌟 90826
 
 > 💫 Toolkit to help you get started with Spec-Driven Development
 
-*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 🌟 61093
+*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 🌟 61167
 
 > Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 
-*   [bytedance/Dolphin](https://github.com/bytedance/Dolphin) 🌟 8913
+*   [bytedance/Dolphin](https://github.com/bytedance/Dolphin) 🌟 8914
 
 > The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 
-*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 22761
+*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 22770
 
 > The official Python SDK for Model Context Protocol servers and clients
 
@@ -89,19 +89,19 @@
 
 > 收集免费的接口服务,做一个api的搬运工
 
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 342386
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 342639
 
 > A complete computer science study plan to become a software engineer.
 
 ## Go
 
-*   [fish2018/pansou](https://github.com/fish2018/pansou) 🌟 12820
+*   [fish2018/pansou](https://github.com/fish2018/pansou) 🌟 12828
 
 > PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/
 
 ## Java
 
-*   [alibaba/jetcache](https://github.com/alibaba/jetcache) 🌟 5573
+*   [alibaba/jetcache](https://github.com/alibaba/jetcache) 🌟 5575
 
 > JetCache is a Java cache framework.
 
@@ -117,26 +117,26 @@
 
 > Real - time non-invasive AOP framework container based on JVM
 
-*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) 🌟 3860
+*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) 🌟 3861
 
 >
 
-*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 78952
+*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 78956
 
 > 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 
-*   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) 🌟 11328
+*   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) 🌟 11329
 
 > 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 
 ## Dockerfile
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 99643
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 99651
 
 > 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 ## Jupyter Notebook
 
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 85440
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 85457
 
 > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
