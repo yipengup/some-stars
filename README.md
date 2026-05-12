@@ -18,7 +18,7 @@
 
 ## JavaScript
 
-*   [Logan66666/Infinitoai](https://github.com/Logan66666/Infinitoai) 🌟 822
+*   [Logan66666/Infinitoai](https://github.com/Logan66666/Infinitoai) 🌟 821
 
 > 专为tmailor调教，古法永动机版本！（支持duck/33mail/tmailor）
 
@@ -28,51 +28,51 @@
 
 ## TypeScript
 
-*   [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) 🌟 2388
+*   [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) 🌟 2414
 
 > CC GUI 客户端（专为开发者打造的VibeCoding平台）
 
-*   [microsoft/poml](https://github.com/microsoft/poml) 🌟 4856
+*   [microsoft/poml](https://github.com/microsoft/poml) 🌟 4855
 
 > Prompt Orchestration Markup Language
 
-*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 🌟 28612
+*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 🌟 28691
 
 > An AI prompt optimizer for writing better prompts and getting better AI results.
 
-*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🌟 103711
+*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🌟 103790
 
 > An open-source AI agent that brings the power of Gemini directly into your terminal.
 
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 87973
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 88006
 
 > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## Python
 
-*   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🌟 59247
+*   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🌟 59414
 
 > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
-*   [github/spec-kit](https://github.com/github/spec-kit) 🌟 95707
+*   [github/spec-kit](https://github.com/github/spec-kit) 🌟 97005
 
 > 💫 Toolkit to help you get started with Spec-Driven Development
 
-*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 🌟 62647
+*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 🌟 62772
 
 > Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 
-*   [bytedance/Dolphin](https://github.com/bytedance/Dolphin) 🌟 8931
+*   [bytedance/Dolphin](https://github.com/bytedance/Dolphin) 🌟 8935
 
 > The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 
-*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 22954
+*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 22973
 
 > The official Python SDK for Model Context Protocol servers and clients
 
 ## miscellaneous
 
-*   [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) 🌟 4281
+*   [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) 🌟 4283
 
 > Chinese software copyright application template document
 
@@ -80,7 +80,7 @@
 
 > MySQL学习《MySQL 是怎样运行的：从根儿上理解 MySQL》，在线阅读：https://relph1119.github.io/mysql-learning-notes/
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 99873
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 99905
 
 > 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
@@ -88,17 +88,17 @@
 
 > 年薪百万互联网架构师课程文档及源码(公开部分)
 
-*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) 🌟 16069
+*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) 🌟 16071
 
 > 收集免费的接口服务,做一个api的搬运工
 
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 346585
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 346632
 
 > A complete computer science study plan to become a software engineer.
 
 ## Go
 
-*   [fish2018/pansou](https://github.com/fish2018/pansou) 🌟 13036
+*   [fish2018/pansou](https://github.com/fish2018/pansou) 🌟 13047
 
 > PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/
 
@@ -112,11 +112,11 @@
 
 > Provide springboot starter for dify to simplify development.
 
-*   [feiniaojin/graceful-response](https://github.com/feiniaojin/graceful-response) 🌟 1247
+*   [feiniaojin/graceful-response](https://github.com/feiniaojin/graceful-response) 🌟 1248
 
 > Spring Boot接口响应处理解决方案，提供统一返回值封装、全局异常处理、自定义异常错误码、参数校验增强、断言增强等功能
 
-*   [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) 🌟 6955
+*   [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) 🌟 6953
 
 > Real - time non-invasive AOP framework container based on JVM
 
@@ -124,16 +124,16 @@
 
 >
 
-*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 78979
+*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 78975
 
 > 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 
-*   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) 🌟 11325
+*   [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) 🌟 11324
 
 > 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 
 ## Jupyter Notebook
 
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 85730
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 85748
 
 > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
