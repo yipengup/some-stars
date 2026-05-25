@@ -28,7 +28,7 @@
 
 ## TypeScript
 
-*   [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) 🌟 2601
+*   [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) 🌟 2622
 
 > CC GUI 客户端（专为开发者打造的VibeCoding平台）
 
@@ -36,29 +36,29 @@
 
 > Prompt Orchestration Markup Language
 
-*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 🌟 29691
+*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 🌟 29811
 
 > An AI prompt optimizer for writing better prompts and getting better AI results.
 
-*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🌟 104555
+*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🌟 104592
 
 > An open-source AI agent that brings the power of Gemini directly into your terminal.
 
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 88254
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 88273
 
 > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## Python
 
-*   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🌟 61574
+*   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🌟 61753
 
 > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
-*   [github/spec-kit](https://github.com/github/spec-kit) 🌟 105482
+*   [github/spec-kit](https://github.com/github/spec-kit) 🌟 105794
 
 > 💫 Toolkit to help you get started with Spec-Driven Development
 
-*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 🌟 64732
+*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 🌟 64866
 
 > Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 
@@ -66,13 +66,13 @@
 
 > The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 
-*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 23111
+*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 23121
 
 > The official Python SDK for Model Context Protocol servers and clients
 
 ## miscellaneous
 
-*   [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) 🌟 4299
+*   [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) 🌟 4302
 
 > Chinese software copyright application template document
 
@@ -80,7 +80,7 @@
 
 > MySQL学习《MySQL 是怎样运行的：从根儿上理解 MySQL》，在线阅读：https://relph1119.github.io/mysql-learning-notes/
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 100260
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 100282
 
 > 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
@@ -88,27 +88,27 @@
 
 > 年薪百万互联网架构师课程文档及源码(公开部分)
 
-*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) 🌟 16091
+*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) 🌟 16093
 
 > 收集免费的接口服务,做一个api的搬运工
 
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 347350
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 347384
 
 > A complete computer science study plan to become a software engineer.
 
 ## Go
 
-*   [fish2018/pansou](https://github.com/fish2018/pansou) 🌟 13237
+*   [fish2018/pansou](https://github.com/fish2018/pansou) 🌟 13251
 
 > PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。
 
 ## Java
 
-*   [alibaba/jetcache](https://github.com/alibaba/jetcache) 🌟 5581
+*   [alibaba/jetcache](https://github.com/alibaba/jetcache) 🌟 5582
 
 > JetCache is a Java cache framework.
 
-*   [guoshiqiufeng/dify-spring-boot-starter](https://github.com/guoshiqiufeng/dify-spring-boot-starter) 🌟 113
+*   [guoshiqiufeng/dify-spring-boot-starter](https://github.com/guoshiqiufeng/dify-spring-boot-starter) 🌟 114
 
 > Provide springboot starter for dify to simplify development.
 
@@ -116,7 +116,7 @@
 
 > Spring Boot接口响应处理解决方案，提供统一返回值封装、全局异常处理、自定义异常错误码、参数校验增强、断言增强等功能
 
-*   [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) 🌟 6950
+*   [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) 🌟 6948
 
 > Real - time non-invasive AOP framework container based on JVM
 
@@ -124,7 +124,7 @@
 
 >
 
-*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 78972
+*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 78975
 
 > 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 
@@ -134,6 +134,6 @@
 
 ## Jupyter Notebook
 
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 85959
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 85967
 
 > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
