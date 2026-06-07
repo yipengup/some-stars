@@ -35,7 +35,7 @@
 
 ## TypeScript
 
-*   [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) 🌟 2793
+*   [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) 🌟 2803
 
 > CC GUI 客户端（专为开发者打造的VibeCoding平台）
 
@@ -43,29 +43,29 @@
 
 > Prompt Orchestration Markup Language
 
-*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 🌟 30510
+*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 🌟 30557
 
 > An AI prompt optimizer for writing better prompts and getting better AI results.
 
-*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🌟 105001
+*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🌟 105042
 
 > An open-source AI agent that brings the power of Gemini directly into your terminal.
 
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 88479
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 88495
 
 > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## Python
 
-*   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🌟 63455
+*   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🌟 63583
 
 > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
-*   [github/spec-kit](https://github.com/github/spec-kit) 🌟 109457
+*   [github/spec-kit](https://github.com/github/spec-kit) 🌟 109946
 
 > 💫 Toolkit to help you get started with Spec-Driven Development
 
-*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 🌟 66659
+*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 🌟 66742
 
 > Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 
@@ -73,13 +73,13 @@
 
 > The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 
-*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 23256
+*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 23259
 
 > The official Python SDK for Model Context Protocol servers and clients
 
 ## miscellaneous
 
-*   [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) 🌟 4328
+*   [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) 🌟 4330
 
 > Chinese software copyright application template document
 
@@ -87,7 +87,7 @@
 
 > MySQL学习《MySQL 是怎样运行的：从根儿上理解 MySQL》，在线阅读：https://relph1119.github.io/mysql-learning-notes/
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 100510
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 100517
 
 > Programmer's guide about how to cook at home.
 
@@ -95,17 +95,17 @@
 
 > 年薪百万互联网架构师课程文档及源码(公开部分)
 
-*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) 🌟 16096
+*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) 🌟 16098
 
 > 收集免费的接口服务,做一个api的搬运工
 
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 350624
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 350743
 
 > A complete computer science study plan to become a software engineer.
 
 ## Go
 
-*   [fish2018/pansou](https://github.com/fish2018/pansou) 🌟 13389
+*   [fish2018/pansou](https://github.com/fish2018/pansou) 🌟 13404
 
 > PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。
 
@@ -127,11 +127,11 @@
 
 > Real - time non-invasive AOP framework container based on JVM
 
-*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) 🌟 3865
+*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) 🌟 3866
 
 >
 
-*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 78993
+*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 78990
 
 > 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 
@@ -141,6 +141,6 @@
 
 ## Jupyter Notebook
 
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 86424
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 86455
 
 > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
