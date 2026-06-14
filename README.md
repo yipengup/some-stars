@@ -35,51 +35,51 @@
 
 ## TypeScript
 
-*   [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) 🌟 3035
+*   [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) 🌟 3097
 
 > CC GUI 客户端（专为开发者打造的VibeCoding平台）
 
-*   [microsoft/poml](https://github.com/microsoft/poml) 🌟 4856
+*   [microsoft/poml](https://github.com/microsoft/poml) 🌟 4855
 
 > Prompt Orchestration Markup Language
 
-*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 🌟 30803
+*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 🌟 30844
 
 > An AI prompt optimizer for writing better prompts and getting better AI results.
 
-*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🌟 105239
+*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🌟 105274
 
 > An open-source AI agent that brings the power of Gemini directly into your terminal.
 
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 88628
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 88644
 
 > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## Python
 
-*   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🌟 64427
+*   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🌟 64554
 
 > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
-*   [github/spec-kit](https://github.com/github/spec-kit) 🌟 111903
+*   [github/spec-kit](https://github.com/github/spec-kit) 🌟 112104
 
 > 💫 Toolkit to help you get started with Spec-Driven Development
 
-*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 🌟 67431
+*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 🌟 67515
 
 > Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 
-*   [bytedance/Dolphin](https://github.com/bytedance/Dolphin) 🌟 9010
+*   [bytedance/Dolphin](https://github.com/bytedance/Dolphin) 🌟 9012
 
 > The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 
-*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 23299
+*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 23308
 
 > The official Python SDK for Model Context Protocol servers and clients
 
 ## miscellaneous
 
-*   [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) 🌟 4339
+*   [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) 🌟 4341
 
 > Chinese software copyright application template document
 
@@ -87,7 +87,7 @@
 
 > MySQL学习《MySQL 是怎样运行的：从根儿上理解 MySQL》，在线阅读：https://relph1119.github.io/mysql-learning-notes/
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 100618
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 100625
 
 > Programmer's guide about how to cook at home.
 
@@ -95,17 +95,17 @@
 
 > 年薪百万互联网架构师课程文档及源码(公开部分)
 
-*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) 🌟 16110
+*   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) 🌟 16111
 
 > 收集免费的接口服务,做一个api的搬运工
 
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 351341
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 351837
 
 > A complete computer science study plan to become a software engineer.
 
 ## Go
 
-*   [fish2018/pansou](https://github.com/fish2018/pansou) 🌟 13453
+*   [fish2018/pansou](https://github.com/fish2018/pansou) 🌟 13471
 
 > PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。
 
@@ -141,6 +141,6 @@
 
 ## Jupyter Notebook
 
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 86789
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 86844
 
 > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
