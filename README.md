@@ -35,7 +35,7 @@
 
 ## TypeScript
 
-*   [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) 🌟 3209
+*   [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) 🌟 3212
 
 > CC GUI 客户端（专为开发者打造的VibeCoding平台）
 
@@ -43,29 +43,29 @@
 
 > Prompt Orchestration Markup Language
 
-*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 🌟 31076
+*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 🌟 31123
 
 > An AI prompt optimizer for writing better prompts and getting better AI results.
 
-*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🌟 105411
+*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🌟 105439
 
 > An open-source AI agent that brings the power of Gemini directly into your terminal.
 
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 88737
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 88746
 
 > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## Python
 
-*   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🌟 65208
+*   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🌟 65322
 
 > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
-*   [github/spec-kit](https://github.com/github/spec-kit) 🌟 114095
+*   [github/spec-kit](https://github.com/github/spec-kit) 🌟 114296
 
 > 💫 Toolkit to help you get started with Spec-Driven Development
 
-*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 🌟 68070
+*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 🌟 68137
 
 > Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 
@@ -73,13 +73,13 @@
 
 > The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 
-*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 23375
+*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 23380
 
 > The official Python SDK for Model Context Protocol servers and clients
 
 ## miscellaneous
 
-*   [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) 🌟 4356
+*   [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) 🌟 4357
 
 > Chinese software copyright application template document
 
@@ -87,7 +87,7 @@
 
 > MySQL学习《MySQL 是怎样运行的：从根儿上理解 MySQL》，在线阅读：https://relph1119.github.io/mysql-learning-notes/
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 100855
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 100864
 
 > Programmer's guide about how to cook at home.
 
@@ -99,13 +99,13 @@
 
 > 收集免费的接口服务,做一个api的搬运工
 
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 353046
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 353177
 
 > A complete computer science study plan to become a software engineer.
 
 ## Go
 
-*   [fish2018/pansou](https://github.com/fish2018/pansou) 🌟 13569
+*   [fish2018/pansou](https://github.com/fish2018/pansou) 🌟 13582
 
 > PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。
 
@@ -123,11 +123,11 @@
 
 > Spring Boot接口响应处理解决方案，提供统一返回值封装、全局异常处理、自定义异常错误码、参数校验增强、断言增强等功能
 
-*   [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) 🌟 6950
+*   [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) 🌟 6951
 
 > Real - time non-invasive AOP framework container based on JVM
 
-*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) 🌟 3870
+*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) 🌟 3871
 
 >
 
@@ -141,6 +141,6 @@
 
 ## Jupyter Notebook
 
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 87032
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 87087
 
 > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
