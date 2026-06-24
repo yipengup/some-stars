@@ -35,51 +35,51 @@
 
 ## TypeScript
 
-*   [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) 🌟 3256
+*   [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) 🌟 3301
 
 > CC GUI 客户端（专为开发者打造的VibeCoding平台）
 
-*   [microsoft/poml](https://github.com/microsoft/poml) 🌟 4855
+*   [microsoft/poml](https://github.com/microsoft/poml) 🌟 4856
 
 > Prompt Orchestration Markup Language
 
-*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 🌟 31283
+*   [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) 🌟 31338
 
 > An AI prompt optimizer for writing better prompts and getting better AI results.
 
-*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🌟 105513
+*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 🌟 105530
 
 > An open-source AI agent that brings the power of Gemini directly into your terminal.
 
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 88820
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) 🌟 88848
 
 > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
 ## Python
 
-*   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🌟 65634
+*   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) 🌟 65757
 
 > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
-*   [github/spec-kit](https://github.com/github/spec-kit) 🌟 114984
+*   [github/spec-kit](https://github.com/github/spec-kit) 🌟 115246
 
 > 💫 Toolkit to help you get started with Spec-Driven Development
 
-*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 🌟 68465
+*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) 🌟 68665
 
 > Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 
-*   [bytedance/Dolphin](https://github.com/bytedance/Dolphin) 🌟 9019
+*   [bytedance/Dolphin](https://github.com/bytedance/Dolphin) 🌟 9021
 
 > The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 
-*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 23424
+*   [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) 🌟 23435
 
 > The official Python SDK for Model Context Protocol servers and clients
 
 ## miscellaneous
 
-*   [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) 🌟 4367
+*   [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) 🌟 4369
 
 > Chinese software copyright application template document
 
@@ -87,7 +87,7 @@
 
 > MySQL学习《MySQL 是怎样运行的：从根儿上理解 MySQL》，在线阅读：https://relph1119.github.io/mysql-learning-notes/
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 100881
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) 🌟 100893
 
 > Programmer's guide about how to cook at home.
 
@@ -99,13 +99,13 @@
 
 > 收集免费的接口服务,做一个api的搬运工
 
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 353715
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 🌟 353835
 
 > A complete computer science study plan to become a software engineer.
 
 ## Go
 
-*   [fish2018/pansou](https://github.com/fish2018/pansou) 🌟 13623
+*   [fish2018/pansou](https://github.com/fish2018/pansou) 🌟 13637
 
 > PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。
 
@@ -119,7 +119,7 @@
 
 > Provide springboot starter for dify to simplify development.
 
-*   [feiniaojin/graceful-response](https://github.com/feiniaojin/graceful-response) 🌟 1249
+*   [feiniaojin/graceful-response](https://github.com/feiniaojin/graceful-response) 🌟 1250
 
 > Spring Boot接口响应处理解决方案，提供统一返回值封装、全局异常处理、自定义异常错误码、参数校验增强、断言增强等功能
 
@@ -127,11 +127,11 @@
 
 > Real - time non-invasive AOP framework container based on JVM
 
-*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) 🌟 3869
+*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) 🌟 3868
 
 >
 
-*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 78993
+*   [doocs/advanced-java](https://github.com/doocs/advanced-java) 🌟 78992
 
 > 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 
@@ -141,6 +141,6 @@
 
 ## Jupyter Notebook
 
-*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 87209
+*   [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) 🌟 87250
 
 > 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
